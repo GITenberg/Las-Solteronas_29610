@@ -1,0 +1,24 @@
+_repo: Las-Solteronas_29610
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Mancey, Claude
+    gutenberg_agent_id: '34028'
+    url: http://www.gutenberg.org/2009/agents/34028
+description: ''
+gutenberg_issued: '2009-08-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29610'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Single women -- Fiction'
+- !lcc 'PQ'
+title: Las Solteronas
+url: http://www.gutenberg.org/ebooks/29610
